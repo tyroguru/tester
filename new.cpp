@@ -2,5 +2,5 @@
 
 int main(int argc, char *argv[])
 {
-    std::cout << "This is Nonsense" << std::endl;
+    std::cout << "This is *more* Nonsense" << std::endl;
 }
